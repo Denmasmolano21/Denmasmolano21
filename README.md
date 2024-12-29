@@ -18,7 +18,7 @@ Here are some of the technologies and tools I work with:
 - 🌱 I’m learning more about modern JavaScript frameworks like React and Vue.js.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, PHP, and front-end technologies.
-- 📫 How to reach me: [your.email@gmail.com](mailto:your.email@gmail.com)
+- 📫 How to reach me: [putraabidumimatham@gmail.com](mailto:putraabidumimatham@gmail.com)
 - ⚡ Fun fact: I love coding and coffee!
 
 ## 📂 Projects
