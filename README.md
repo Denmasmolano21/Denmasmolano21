@@ -1,35 +1,75 @@
+<div align="center">
+
 # Denmas
 
-Full Stack Web Developer yang fokus membangun aplikasi web yang responsif dengan back-end yang rapi.
+**Full Stack Web Developer**
 
-[Email](mailto:putraabidumimatham@gmail.com) · [GitHub](https://github.com/Denmasmolano21)
+Membangun aplikasi web yang responsif dengan back-end yang rapi.
 
----
+[Email](mailto:putraabidumimatham@gmail.com) &nbsp;/&nbsp; [GitHub](https://github.com/Denmasmolano21) &nbsp;/&nbsp; [Projects](#projects)
 
-## About
+</div>
 
-- Mengerjakan berbagai proyek pengembangan web
-- Sedang mendalami React dan Vue.js
-- Terbuka untuk kolaborasi di proyek open-source
-- Bisa ditanya seputar PHP, Laravel, dan front-end
+<br>
+
+```js
+const denmas = {
+  role: "Full Stack Web Developer",
+  focus: ["Responsive web apps", "Clean back-end"],
+  stack: ["PHP", "Laravel", "MySQL", "Tailwind CSS"],
+  learning: ["React", "Vue.js"],
+  openTo: "Open-source collaboration",
+};
+```
+
+<br>
 
 ## Tech Stack
 
-| Kategori | Teknologi |
-| --- | --- |
-| Front-end | HTML, CSS, Tailwind CSS, Bootstrap |
-| Back-end | PHP, Laravel |
-| Database | MySQL |
-| Tools | Git, VS Code, XAMPP |
+<table>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><code>HTML</code> <code>CSS</code> <code>Tailwind CSS</code> <code>Bootstrap</code></td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><code>PHP</code> <code>Laravel</code></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><code>Git</code> <code>VS Code</code> <code>XAMPP</code></td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td><code>React</code> <code>Vue.js</code></td>
+  </tr>
+</table>
+
+<br>
 
 ## Projects
 
-| Proyek | Deskripsi |
-| --- | --- |
-| [App Scanner](https://github.com/Denmasmolano21/scanner) | Aplikasi pemindai berbasis web |
-| [Dashboard Admin](https://github.com/Denmasmolano21/laravel11xfillament) | Dashboard admin dengan Laravel 11 dan Filament |
-| [Helpdesk Website](https://github.com/Denmasmolano21/helpdesk) | Website helpdesk untuk pengelolaan tiket dan layanan |
+<table>
+  <tr>
+    <td width="30%"><a href="https://github.com/Denmasmolano21/scanner"><b>App Scanner</b></a></td>
+    <td>Aplikasi pemindai berbasis web</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Denmasmolano21/laravel11xfillament"><b>Dashboard Admin</b></a></td>
+    <td>Dashboard admin dengan Laravel 11 dan Filament</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Denmasmolano21/helpdesk"><b>Helpdesk Website</b></a></td>
+    <td>Website helpdesk untuk pengelolaan tiket dan layanan</td>
+  </tr>
+</table>
+
+<br>
 
 ## Contact
 
-Email: [putraabidumimatham@gmail.com](mailto:putraabidumimatham@gmail.com)
+Terbuka untuk diskusi dan kolaborasi. Kirim email ke [putraabidumimatham@gmail.com](mailto:putraabidumimatham@gmail.com).
